@@ -1,3 +1,4 @@
+
 import React, { Fragment } from 'react'
 
 const SideForm = (props) => {
@@ -113,3 +114,5 @@ const SideForm = (props) => {
     </Fragment>
   )
 }
+
+export default SideForm
